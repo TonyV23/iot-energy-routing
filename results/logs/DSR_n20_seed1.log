@@ -1,0 +1,8 @@
+protocol=DSR
+pdr=0.26958
+throughput_kbps=149.914
+avg_delay_ms=0
+routing_overhead_ratio=8.62113
+first_node_death_s=-1
+network_lifetime_s=-1
+energy_fairness=0.897566

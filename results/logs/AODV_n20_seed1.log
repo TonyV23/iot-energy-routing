@@ -1,0 +1,8 @@
+protocol=AODV
+pdr=0.224159
+throughput_kbps=1125.79
+avg_delay_ms=292.765
+routing_overhead_ratio=5.86747
+first_node_death_s=-1
+network_lifetime_s=-1
+energy_fairness=0.921691
