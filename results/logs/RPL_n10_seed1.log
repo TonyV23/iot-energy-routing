@@ -1,8 +1,0 @@
-protocol=RPL
-pdr=0.0138675
-throughput_kbps=3.6864
-avg_delay_ms=1209.66
-routing_overhead_ratio=0
-first_node_death_s=-1
-network_lifetime_s=-1
-energy_fairness=1
